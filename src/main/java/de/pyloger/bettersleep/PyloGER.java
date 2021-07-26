@@ -12,7 +12,6 @@ public final class PyloGER extends JavaPlugin {
         // Plugin startup logic
         Bukkit.getPluginManager().registerEvents(new BedManager(), this);
 
-
     }
 
     @Override
