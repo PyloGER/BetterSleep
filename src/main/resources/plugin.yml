@@ -1,0 +1,6 @@
+name: Bettersleep
+version: ${project.version}
+main: de.pyloger.bettersleep.PyloGER
+api-version: 1.17
+authors: [ PyloGER ]
+website: UtopiaGER.de
