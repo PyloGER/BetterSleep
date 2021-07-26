@@ -19,7 +19,7 @@ public class BedManager implements Listener {
             player.getWorld().setTime(0);
 
         } else {
-            Bukkit.broadcastMessage(prefix + "§cDu kann derzeit nicht schlafen§8.");
+            player.sendMessage(prefix + "§cDu kann derzeit nicht schlafen§8.");
         }
     }
 }
